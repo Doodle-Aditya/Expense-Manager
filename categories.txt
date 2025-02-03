@@ -1,0 +1,1 @@
+{"Food": [{"Lunch": 500}, {"Family dinner": 5000}], "Drink": [{"Boba": 200}, {"Coke": 50}], "Groceries": [{"Monthly Groceries": 6000}, {"Additional Groceires": 600}], "Water": []}
